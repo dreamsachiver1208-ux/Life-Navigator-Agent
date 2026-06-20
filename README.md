@@ -79,6 +79,8 @@ Inspect the active logs of the inter-agent communication bus. Users can enter di
 * `/scope_reduction` - Excises secondary modules to fit constraints.
 
 ---
+🌐 Live Demo
+https://lifenaviatoragent.netlify.app/
 
 ## 💻 Local Setup and Running
 
