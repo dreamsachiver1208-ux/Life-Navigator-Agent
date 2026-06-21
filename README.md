@@ -14,7 +14,7 @@ Unlike standard chatbots or simple task managers, it is structured as a **Multi-
 ---
 
 🌐 **Live Demo**
-https://lifenaviatoragent.netlify.app/
+https://lifenaviatorai.netlify.app/
 
 
 ## ⚠️ Problem Statement
